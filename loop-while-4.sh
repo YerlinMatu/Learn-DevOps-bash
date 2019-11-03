@@ -11,5 +11,5 @@ while [[ $item -le 20 ]]; do
       17) echo "bad luck from Italy"
       ;;
   esac
-	let item+=1
+ let item+=1
 done
